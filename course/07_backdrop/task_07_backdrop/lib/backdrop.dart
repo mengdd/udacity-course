@@ -6,8 +6,7 @@ import 'dart:math' as math;
 
 import 'package:flutter/material.dart';
 import 'package:meta/meta.dart';
-
-import 'category.dart';
+import 'package:task_07_backdrop/category.dart';
 
 const double _kFlingVelocity = 2.0;
 

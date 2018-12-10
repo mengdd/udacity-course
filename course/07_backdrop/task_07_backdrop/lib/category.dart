@@ -6,8 +6,8 @@
 // https://www.dartlang.org/guides/language/effective-dart/style#ordering
 import 'package:flutter/material.dart';
 import 'package:meta/meta.dart';
+import 'package:task_07_backdrop/unit.dart';
 
-import 'unit.dart';
 
 /// A [Category] keeps track of a list of [Unit]s.
 class Category {
